@@ -54,7 +54,7 @@
 [<img align="left" alt="Docker" width="26px" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/042019/asset_12x_1.png?CKy3cgWRxFCeq1gc45y3feqRBsDh8a3U&itok=5sVafGzu" />](https://www.docker.com/)
 
 
-[<img align="left" alt="Kubernetes" width="26px" src="https://carlossg.github.io/presentations/assets/kubernetes-logo-text.png" />](https://kubernetes.io/es/)
+[<img align="left" alt="Kubernetes" width="36px" src="https://carlossg.github.io/presentations/assets/kubernetes-logo-text.png" />](https://kubernetes.io/es/)
 
 
 
