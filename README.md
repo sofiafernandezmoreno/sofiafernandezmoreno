@@ -59,7 +59,7 @@
 
 [<img align="left" alt="DevOps" width="36px" src="https://idgrup.com/wp-content/uploads/2018/07/devops1-1024x524.png" />](https://www.redhat.com/es/topics/devops)
 
-[<img align="left" alt="IBM y RedHat" width="56px" src="https://1.cms.s81c.com/sites/default/files/styles/band_inline_image_standard/public/2019-06/ibm-red-hat-leadspace.png?itok=nudYHKsG" />](https://www.ibm.com/mx-es/cloud/redhat)
+[<img align="left" alt="RedHat" width="56px" src="https://www.muycomputerpro.com/wp-content/uploads/2019/05/RedHat_logo.jpg" />](https://www.redhat.com/es)
 <br />
 <br />
 
