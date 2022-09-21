@@ -5,7 +5,7 @@
 
 ## I'm a future DevOps Engineer in constant progress
 
-- 🔭 I’m currently working on <img src="https://www.livingstone-tech.com/wp-content/uploads/2019/06/ibm-logo-png-transparent-background-300x150.png" alt="IBM" width="30" height="20">
+- 🔭 I’m currently working on <img src="https://s7d1.scene7.com/is/image/kyndryl/logo-header?qlt=85&wid=320&ts=1654196538994&$SVG-Transparency$&dpr=off" alt="Kyndryl" width="30" height="20">
 
 - 🌱 I’m currently learning everything 🤣
 
