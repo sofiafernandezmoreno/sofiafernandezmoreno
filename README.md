@@ -5,7 +5,7 @@
 
 ## I'm a future DevOps Engineer in constant progress
 
-- 🔭 I’m currently working on <img src="https://s7d1.scene7.com/is/image/kyndryl/logo-header?qlt=85&wid=320&ts=1654196538994&$SVG-Transparency$&dpr=off" alt="Kyndryl" width="30" height="20">
+- 🔭 I’m currently working on <img src="[https://s7d1.scene7.com/is/image/kyndryl/logo-header?qlt=85&wid=320&ts=1654196538994&$SVG-Transparency$&dpr=off](https://imgs.search.brave.com/yJ6CpGxCer7DzyMGQKCAo-UNcR1uVnlz6aoTU3VcRTU/rs:fit:560:320:1/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi85LzllL1NJ/WF9Hcm91cF9sb2dv/LnN2Zy82NDBweC1T/SVhfR3JvdXBfbG9n/by5zdmcucG5n)" alt="Six" width="30" height="20">
 
 - 🌱 I’m currently learning everything 🤣
 
